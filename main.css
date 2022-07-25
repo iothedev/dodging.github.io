@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: hiddenfont;
-  src: url(/assets/fonts/hidden.woff2);
+  src: url(hidden.woff2);
 }
 
 :root {
